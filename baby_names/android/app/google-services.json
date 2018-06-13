@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "649442091663",
+    "firebase_url": "https://name-debate.firebaseio.com",
+    "project_id": "name-debate",
+    "storage_bucket": "name-debate.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649442091663:android:8e014576d644f4cc",
+        "android_client_info": {
+          "package_name": "com.example.babynames"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649442091663-82npuvd70eko22qvkg5m491ulk8mglou.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "649442091663-82npuvd70eko22qvkg5m491ulk8mglou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDWHfn7nahN7bn_tY40sMUELjYJwSnISU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
